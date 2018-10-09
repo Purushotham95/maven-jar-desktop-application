@@ -1,0 +1,4 @@
+**/target
+*.txt
+src/**/*.txt
+abc.log
